@@ -1,0 +1,260 @@
+
+@media (max-width: 600px){
+    
+    body {
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+
+
+#plakat img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+
+}
+
+#plakat .section_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 5px;
+
+
+
+}
+
+
+.image1 {
+    grid-row: span 2;
+    grid-column: span 2;
+
+}
+
+
+.image5 {
+    grid-column: 3 / 5;
+    grid-row: 1 /2;
+
+}
+
+.image6 {
+    grid-column: 2 / 5;
+
+}
+
+
+.image2 {
+    grid-column: 3/5;
+    grid-row: 2/3;
+
+}
+
+.image3 {}
+
+.image4 {
+    grid-column: 2/5;
+
+}
+
+.image7 {
+    grid-row: 4/5;
+}
+
+.image9 {
+    grid-column: 2/5;
+}
+
+.tekst1 {
+    position: absolute;
+    left: 60vw;
+    top: 100vw;
+
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+
+}
+
+.tekst2{
+    position: absolute;
+    left: 11vw;
+    top: 70vw;
+    
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+        
+}
+
+.tekst3 {
+    position: absolute;
+    left: 47vw;
+    top: 131vw;
+    
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 30px;
+}
+
+.tekst4 {
+    position: absolute;
+    left: 30vw;
+    top: 193vw;
+    
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 50px;
+}
+
+
+
+.H1 {
+    position: absolute;
+    top: -8vw;
+    left: 10vw;
+
+    color: white;
+    font-family: 'Notable', sans-serif;
+    font-size: 70px;
+
+}
+
+
+    
+}
+
+
+
+
+body {
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+
+
+#plakat img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+
+}
+
+#plakat .section_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 5px;
+
+
+
+}
+
+
+.image1 {
+    grid-row: span 2;
+    grid-column: span 2;
+
+}
+
+
+.image5 {
+    grid-column: 3 / 5;
+    grid-row: 1 /2;
+
+}
+
+.image6 {
+    grid-column: 2 / 5;
+
+}
+
+
+.image2 {
+    grid-column: 3/5;
+    grid-row: 2/3;
+
+}
+
+.image3 {}
+
+.image4 {
+    grid-column: 2/5;
+
+}
+
+.image7 {
+    grid-row: 4/5;
+}
+
+.image9 {
+    grid-column: 2/5;
+}
+
+.tekst1 {
+    position: absolute;
+    left: 60vw;
+    top: 100vw;
+
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+
+}
+
+.tekst2{
+    position: absolute;
+    left: 11vw;
+    top: 70vw;
+    
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+        
+}
+
+.tekst3 {
+    position: absolute;
+    left: 47vw;
+    top: 131vw;
+    
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 30px;
+}
+
+.tekst4 {
+    position: absolute;
+    left: 30vw;
+    top: 193vw;
+    
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 50px;
+}
+
+
+
+.H1 {
+    position: absolute;
+    top: -8vw;
+    left: 10vw;
+
+    color: white;
+    font-family: 'Notable', sans-serif;
+    font-size: 70px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
